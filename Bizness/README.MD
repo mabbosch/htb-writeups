@@ -1,4 +1,4 @@
-###RESOLUCIÓN DE LA MÁQUINA BIZNESS
+### RESOLUCIÓN DE LA MÁQUINA BIZNESS
 
 Una vez preparado nuestro laboratorio, vamos a hacer nuestro escaneo de puertos abiertos con nmap
 
